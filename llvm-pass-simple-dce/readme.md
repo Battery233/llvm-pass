@@ -2,7 +2,7 @@
 
 Use Git to clone the LLVM sources and Cmake to generate the Makefiles to build LLVM on Linux. A minimum of Cmake 3.4 or later is required.
 
-To run the pass, build the pass first and then:
+To run the pass, build the pass first and then use the command line:
 
 ```
 $ ........./build/bin/clang -S -emit-llvm -Xclang -disable-O0-optnone test.c
