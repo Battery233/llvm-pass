@@ -1,2 +1,2 @@
 # llvm-pass
-llvm passes for dead code elimination
+llvm pass for dead code elimination and some test cases.
